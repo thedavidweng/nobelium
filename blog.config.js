@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'David’s BLOG',
+  title: 'DAVID’S BLOG',
   author: 'David Weng',
   email: 'mail@davidweng.tk',
   link: 'https://nobelium.davidweng.tk',
